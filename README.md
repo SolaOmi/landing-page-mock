@@ -1,6 +1,7 @@
 ## Synopsis
 
 Mock landing page
+Suneater - game about a person who quenches light
 
 ## Todo
 
@@ -30,5 +31,7 @@ Mock landing page
     * Social media links
 
 buttons - change color on hover, gets a border when clicked
+
 inputs - highlighted when focus
+
 icons - expand on hover
