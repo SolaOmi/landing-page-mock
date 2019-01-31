@@ -6,9 +6,9 @@ Suneater - game about a person who quenches light
 
 ## Todo
 
-1. Navigation
-    * Brand
-    * Signin button
+~~1. Navigation~~
+    ~~* Brand~~
+    ~~* Signin button~~
 
 2. Header
     * Intro
