@@ -1,6 +1,7 @@
 ## Synopsis
 
 Mock landing page
+
 Suneater - game about a person who quenches light
 
 ## Todo
