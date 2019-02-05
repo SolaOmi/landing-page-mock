@@ -10,6 +10,7 @@ header.intro {
 #showcase .showcase-image {
   background-image: url('https://placekitten.com/1200/1000');
   background-size: cover;
+  min-height: 30rem;
 }
 
 #showcase .showcase-text {
