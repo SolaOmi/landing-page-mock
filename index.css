@@ -6,3 +6,22 @@ header.intro {
 .features {
   padding: 7.0rem 0;
 }
+
+#showcase .showcase-image {
+  background-image: url('https://placekitten.com/1200/1000');
+  background-size: cover;
+}
+
+#showcase .showcase-text {
+  padding: 3.0rem;
+}
+
+#showcase .showcase-text h2 {
+  font-weight: bold;
+}
+
+@media (min-width: 768px) {
+  #showcase .showcase-text {
+      padding: 7rem;
+  }
+}
