@@ -3,10 +3,6 @@ header.intro {
   padding: 8.0rem 0;
 }
 
-.features {
-  padding: 7.0rem 0;
-}
-
 #showcase .showcase-image {
   background-image: url('https://placekitten.com/1200/1000');
   background-size: cover;
@@ -19,6 +15,22 @@ header.intro {
 
 #showcase .showcase-text h2 {
   font-weight: bold;
+}
+
+#recommend .recommend-item {
+  max-width: 18rem;
+}
+
+.recommend-item img {
+  max-width: 12rem;
+}
+
+.recommend-item h5 {
+  font-weight: bold;
+}
+
+.section-padding {
+  padding: 7.0rem 0;
 }
 
 @media (min-width: 768px) {

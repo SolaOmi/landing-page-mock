@@ -17,8 +17,8 @@ Suneater - game about a person who quenches light
 ~~3. Section (Features list)~~
     ~~* 3+ features (icon, name, blurb)~~
 
-4. Section (Features showcase)
-    * 3+ features (title, description, image)
+~~4. Section (Features showcase)~~
+    ~~* 3+ features (title, description, image)~~
 
 5. Recommendations.
     * 3+ user review(image, name, review blurb)
