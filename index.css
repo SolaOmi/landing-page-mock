@@ -55,6 +55,14 @@
   margin-right: 0;
 }
 
+.fa-heart {
+  transition: all 0.2s ease-in-out;
+}
+
+.fa-heart:hover {
+  transform: scale(1.2);
+}
+
 @media (min-width: 768px) {
   #showcase .showcase-text {
       padding: 7rem;

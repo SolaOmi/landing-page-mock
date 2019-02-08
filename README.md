@@ -26,13 +26,13 @@ Suneater - game about a person who quenches light
 ~~6. Signup~~
     ~~* Signup form (input &  button)~~
 
-7. Footer
-    * About, Contact, Terms of Use, Privacy Policy
-    * Copyright
-    * Social media links
+~~7. Footer~~
+    ~~* About, Contact, Terms of Use, Privacy Policy~~
+    ~~* Copyright~~
+    ~~* Social media links~~
 
-buttons - change color on hover, gets a border when clicked
+~~buttons - change color on hover, gets a border when clicked~~
 
-inputs - highlighted when focus
+~~inputs - highlighted when focus~~
 
-icons - expand on hover
+~~icons - expand on hover~~
